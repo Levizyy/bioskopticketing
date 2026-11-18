@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 540" role="img" aria-labelledby="title description">
+  <title id="title">The Last Detective</title>
+  <desc id="description">A noir city street with a detective's silhouette under a streetlight.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#101a2b"/><stop offset=".72" stop-color="#27394a"/><stop offset="1" stop-color="#080d15"/></linearGradient>
+    <radialGradient id="lamp"><stop stop-color="#ffe4a0" stop-opacity=".9"/><stop offset="1" stop-color="#ffe4a0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h360v540H0z"/>
+  <circle cx="280" cy="171" r="135" fill="url(#lamp)"/>
+  <path fill="#121a24" d="M0 258h51v-92h37v92h27V205h44v53h22v-121h54v121h19v-77h46v77h24v-101h33v101h29v282H0z"/>
+  <path fill="#242d36" d="M0 389h360v151H0z"/><path fill="#111720" d="M87 540q24-114 80-150 56 36 80 150z"/>
+  <path fill="none" stroke="#eacb8c" stroke-width="5" d="M291 154v146m-25-145h50"/><circle cx="291" cy="153" r="9" fill="#fff1c8"/>
+  <path fill="#111720" d="m142 345 25-35 42 3 27 35-14 20v33h-68v-34z"/>
+  <path fill="#080d13" d="M151 346q34-37 74-1l-9 13h-55z"/>
+  <circle cx="205" cy="388" r="25" fill="none" stroke="#d7ae63" stroke-width="5"/><path stroke="#d7ae63" stroke-width="6" d="m224 407 21 21"/>
+  <text x="180" y="449" text-anchor="middle" fill="#e1c98e" font-family="Georgia,serif" font-size="14" letter-spacing="6">THE LAST</text>
+  <text x="180" y="491" text-anchor="middle" fill="#f3f0e7" font-family="Georgia,serif" font-size="35" letter-spacing="1">DETECTIVE</text>
+  <text x="180" y="518" text-anchor="middle" fill="#aebbc4" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">EVERY CLUE HAS A SHADOW</text>
+</svg>

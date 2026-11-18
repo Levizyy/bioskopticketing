@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 540" role="img" aria-labelledby="title description">
+  <title id="title">The Dark Forest</title>
+  <desc id="description">A moonlit forest with a lonely path disappearing into the trees.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#101b2c"/><stop offset=".65" stop-color="#182b2a"/><stop offset="1" stop-color="#05090d"/></linearGradient>
+    <radialGradient id="moon"><stop stop-color="#e7edcc"/><stop offset="1" stop-color="#a8c9b0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="fog" x2="0" y2="1"><stop stop-color="#c1d5bc" stop-opacity=".55"/><stop offset="1" stop-color="#c1d5bc" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h360v540H0z"/>
+  <circle cx="250" cy="145" r="112" fill="url(#moon)"/><circle cx="250" cy="145" r="39" fill="#d9e3cb"/>
+  <path fill="#10201d" d="M0 160 32 79l-9 1 32-64 32 64-10-1 35 81-16-3 44 92H0zm360-36-35-3 27-66-12 1 28-53 28 54-12-2 34 71-27 4 43 90H294z"/>
+  <path fill="#08100f" d="m0 288 38-105-12 2 38-77 38 77-11-2 39 105H98l31 85H28l31-85zm210 22 42-119-14 3 43-88 45 89-14-4 44 119h-47l39 101H215l39-101z"/>
+  <path fill="url(#fog)" d="M0 325q80-40 180 0t180 0v75q-90-35-180 0T0 400z"/>
+  <path fill="#080b0c" d="M124 540q28-119 56-161 28 42 56 161z"/>
+  <path fill="none" stroke="#c4d2b7" stroke-opacity=".65" stroke-width="2" d="M180 379 180 540"/>
+  <text x="180" y="431" text-anchor="middle" fill="#d8e3d2" font-family="Georgia,serif" font-size="16" letter-spacing="7">THE</text>
+  <text x="180" y="474" text-anchor="middle" fill="#f2f1e4" font-family="Georgia,serif" font-size="38" letter-spacing="2">DARK</text>
+  <text x="180" y="516" text-anchor="middle" fill="#f2f1e4" font-family="Georgia,serif" font-size="38" letter-spacing="3">FOREST</text>
+</svg>

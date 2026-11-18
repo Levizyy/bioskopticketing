@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 540" role="img" aria-labelledby="title description">
+  <title id="title">Funny Business</title>
+  <desc id="description">A bright comedy poster with playful office objects.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#fff2a5"/><stop offset="1" stop-color="#ff8d72"/></linearGradient>
+    <linearGradient id="tie" x2="1" y2="1"><stop stop-color="#5631a1"/><stop offset="1" stop-color="#e13c76"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h360v540H0z"/>
+  <circle cx="55" cy="91" r="32" fill="#fff" opacity=".75"/><circle cx="306" cy="124" r="48" fill="#fff" opacity=".46"/>
+  <path fill="#fff7d4" d="M35 171 105 145l18 13-27 74-72 13-9-18z" transform="rotate(-9 64 193)"/>
+  <path fill="#fff7d4" d="m254 194 74-21 12 16-33 65-68 5-9-19z" transform="rotate(12 287 216)"/>
+  <path fill="#1e3155" d="M80 540q13-152 100-197 87 45 100 197z"/>
+  <path fill="#f4ead8" d="m145 329 35 36 35-36 19 39-30 30h-48l-30-30z"/>
+  <path fill="url(#tie)" d="m167 354 13 12 13-12 16 24-19 79 9 83h-38l9-83-19-79z"/>
+  <path fill="#253b60" d="M111 375q-46 15-51 61l34 19 26-44zm138 0q46 15 51 61l-34 19-26-44z"/>
+  <g fill="#fff" font-family="Arial,sans-serif" font-weight="700" font-size="26">
+    <text x="45" y="278" transform="rotate(-8 45 278)">!</text><text x="294" y="315" transform="rotate(9 294 315)">?</text>
+  </g>
+  <text x="180" y="112" text-anchor="middle" fill="#263353" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="6">A COMEDY</text>
+  <text x="180" y="153" text-anchor="middle" fill="#d63462" font-family="Arial,sans-serif" font-size="36" font-weight="900" letter-spacing="2">FUNNY</text>
+  <text x="180" y="194" text-anchor="middle" fill="#263353" font-family="Arial,sans-serif" font-size="34" font-weight="900" letter-spacing="2">BUSINESS</text>
+  <text x="180" y="514" text-anchor="middle" fill="#ffefc0" font-family="Arial,sans-serif" font-size="11" letter-spacing="3">SERIOUSLY FUNNY. BARELY QUALIFIED.</text>
+</svg>

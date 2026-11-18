@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 540" role="img" aria-labelledby="title description">
+  <title id="title">Love in Tokyo</title>
+  <desc id="description">A romantic Tokyo evening beneath cherry blossoms.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#22245b"/><stop offset=".52" stop-color="#d2599a"/><stop offset="1" stop-color="#ffbd9d"/></linearGradient>
+    <linearGradient id="city" x2="0" y2="1"><stop stop-color="#222444"/><stop offset="1" stop-color="#12152e"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h360v540H0z"/>
+  <circle cx="284" cy="178" r="47" fill="#ffe2c9" opacity=".82"/>
+  <path fill="#f7a4c4" opacity=".72" d="M0 73q76 9 121 77-43-35-84-30 47 23 58 67-36-39-95-34zm360 10q-67 3-112 65 42-30 78-22-40 19-51 59 34-34 85-24z"/>
+  <path fill="url(#city)" d="M0 325h34v-73h32v73h24V220h37v105h22v-55h37v55h16V188h42v137h20v-81h31v81h25v-61h40v61h20v215H0z"/>
+  <g fill="#ffd98c" opacity=".9"><path d="M44 277h9v12h-9zm32 16h8v11h-8zm62-41h9v14h-9zm38 36h9v12h-9zm56-59h9v14h-9zm62 39h9v12h-9zm37 34h9v11h-9z"/></g>
+  <path fill="none" stroke="#ffdaec" stroke-width="3" opacity=".8" d="M-10 146q67-32 121 6t112-2 150 1"/>
+  <g fill="#ffd3e4"><circle cx="34" cy="186" r="5"/><circle cx="56" cy="164" r="4"/><circle cx="305" cy="221" r="5"/><circle cx="332" cy="193" r="3"/><circle cx="112" cy="232" r="4"/></g>
+  <text x="180" y="410" text-anchor="middle" fill="#fff4ee" font-family="Georgia,serif" font-size="18" letter-spacing="9">LOVE IN</text>
+  <text x="180" y="464" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="45" font-weight="700" letter-spacing="3">TOKYO</text>
+  <text x="180" y="503" text-anchor="middle" fill="#ffe4d5" font-family="Arial,sans-serif" font-size="12" letter-spacing="4">A CITY, A CHANCE, A LOVE</text>
+</svg>
